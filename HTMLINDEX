@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang ="pt-br">
 <head>
+<link rel="stylesheet"href="style.css">
 <META CHARSET ="UTF-08">
 <title>"Minha página"</title>
 </head>
